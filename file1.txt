@@ -1,2 +1,4 @@
 hello 
 my name is khadija
+this is my first project on git 
+
