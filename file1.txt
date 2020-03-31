@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hello 
 my name is khadija
 this is my first project on git 
 
+=======
+hello world
+this is my first project on github
+>>>>>>> origin/master
